@@ -1,0 +1,5 @@
+E:\Code\2020\AdobleLanguageChange\ALC2\obj\Debug\ALC2.csprojAssemblyReference.cache
+E:\Code\2020\AdobleLanguageChange\ALC2\obj\Debug\ALC2.exe
+E:\Code\2020\AdobleLanguageChange\ALC2\obj\Debug\ALC2.pdb
+E:\Code\2020\AdobleLanguageChange\ALC2\bin\Debug\ALC2.exe
+E:\Code\2020\AdobleLanguageChange\ALC2\bin\Debug\ALC2.pdb

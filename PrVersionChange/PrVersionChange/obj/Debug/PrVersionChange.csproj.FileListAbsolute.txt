@@ -1,0 +1,6 @@
+E:\Code\2020\PrVersionChange\PrVersionChange\bin\Debug\PrVersionChange.exe
+E:\Code\2020\PrVersionChange\PrVersionChange\bin\Debug\PrVersionChange.pdb
+E:\Code\2020\PrVersionChange\PrVersionChange\obj\Debug\PrVersionChange.csprojAssemblyReference.cache
+E:\Code\2020\PrVersionChange\PrVersionChange\obj\Debug\PrVersionChange.exe
+E:\Code\2020\PrVersionChange\PrVersionChange\obj\Debug\PrVersionChange.pdb
+E:\Code\2020\PrVersionChange\PrVersionChange\bin\Debug\PrVersionChange.exe.config

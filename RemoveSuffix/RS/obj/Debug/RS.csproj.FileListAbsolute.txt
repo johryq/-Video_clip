@@ -1,0 +1,4 @@
+E:\Code\2020\RemoveSuffix\RS\bin\Debug\RS.exe
+E:\Code\2020\RemoveSuffix\RS\bin\Debug\RS.pdb
+E:\Code\2020\RemoveSuffix\RS\obj\Debug\RS.exe
+E:\Code\2020\RemoveSuffix\RS\obj\Debug\RS.pdb
