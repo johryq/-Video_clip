@@ -3,3 +3,10 @@ E:\Code\2020\PrVersionChange\PrVersionChange_V1\bin\Debug\PrVersionChange_V1.pdb
 E:\Code\2020\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.exe
 E:\Code\2020\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.pdb
 E:\Code\2020\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.csprojAssemblyReference.cache
+E:\Code\2020\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.csproj.CoreCompileInputs.cache
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\bin\Debug\PrVersionChange_V1.exe
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\bin\Debug\PrVersionChange_V1.pdb
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.csprojAssemblyReference.cache
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.csproj.CoreCompileInputs.cache
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.exe
+C:\Users\26861\Desktop\Video_clip_tool\PrVersionChange\PrVersionChange_V1\obj\Debug\PrVersionChange_V1.pdb
